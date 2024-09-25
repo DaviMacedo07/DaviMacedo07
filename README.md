@@ -1,8 +1,8 @@
 
 
 ###  Olá eu sou o Davi Macêdo 🙋🏼
-[![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/davi-macedo-2bb601269/)])
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davi.maced0?igsh=MXA1OWRlbXRpc29rdg%3D%3D&utm_source=qr)
+[![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/davi-macedo07)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/davi-macedo-2bb601269/)
 
 
 
