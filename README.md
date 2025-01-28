@@ -6,8 +6,6 @@
 
 
 
-![Davi Macedo GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMacedo07&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMacedo07&hide_progress=true&theme=dracula)
 
 ### Tecnologias de Domínio 
 
